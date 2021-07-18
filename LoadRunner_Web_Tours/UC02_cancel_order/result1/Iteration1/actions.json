@@ -1,0 +1,142 @@
+[
+    {
+        "actionName": "Itinerary",
+        "steps": [
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t3.inf",
+                "time": 1589658455698
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC01_TR02_itinerary",
+                "rawStartTime": 1589658455526,
+                "rawEndTime": 1589658455699,
+                "thinkTime": 0.0,
+                "wastedTime": 0.006777524948120117
+            }
+        ]
+    },
+    {
+        "actionName": "Itinerary",
+        "steps": [
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t4.inf",
+                "time": 1589658455836
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC01_TR02_itinerary",
+                "rawStartTime": 1589658455719,
+                "rawEndTime": 1589658455839,
+                "thinkTime": 0.0,
+                "wastedTime": 0.005647182464599609
+            }
+        ]
+    },
+    {
+        "actionName": "Itinerary",
+        "steps": [
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t5.inf",
+                "time": 1589658455984
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC01_TR02_itinerary",
+                "rawStartTime": 1589658455859,
+                "rawEndTime": 1589658455986,
+                "thinkTime": 0.0,
+                "wastedTime": 0.005145072937011719
+            }
+        ]
+    },
+    {
+        "actionName": "Itinerary",
+        "steps": [
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t6.inf",
+                "time": 1589658456112
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC01_TR02_itinerary",
+                "rawStartTime": 1589658455997,
+                "rawEndTime": 1589658456117,
+                "thinkTime": 0.0,
+                "wastedTime": 0.005055665969848633
+            }
+        ]
+    },
+    {
+        "actionName": "Itinerary",
+        "steps": [
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t7.inf",
+                "time": 1589658456252
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC01_TR02_itinerary",
+                "rawStartTime": 1589658456137,
+                "rawEndTime": 1589658456257,
+                "thinkTime": 0.0,
+                "wastedTime": 0.005306243896484375
+            }
+        ]
+    },
+    {
+        "actionName": "Itinerary",
+        "steps": [
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t8.inf",
+                "time": 1589658456395
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC01_TR02_itinerary",
+                "rawStartTime": 1589658456277,
+                "rawEndTime": 1589658456397,
+                "thinkTime": 0.0,
+                "wastedTime": 0.005364656448364258
+            }
+        ]
+    },
+    {
+        "actionName": "Cancel_Orders",
+        "steps": [
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: itinerary.pl_2",
+                "infFile": "t9.inf",
+                "time": 1589658456599
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC01_TR03_cancel_orders",
+                "rawStartTime": 1589658456425,
+                "rawEndTime": 1589658456601,
+                "thinkTime": 0.0,
+                "wastedTime": 0.004505157470703125
+            }
+        ]
+    }
+]

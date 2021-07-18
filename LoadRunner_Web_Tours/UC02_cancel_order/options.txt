@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\AdminFiles\LoadRunner\LD_scripts\UC01_cancel_order
+-ID:\AdminFiles\LoadRunner\LR_prog\include
+-ed:\adminfiles\loadrunner\ld_scripts\uc01_cancel_order\\logfile.log
+d:\adminfiles\loadrunner\ld_scripts\uc01_cancel_order\\combined_UC01_cancel_order.c
+d:\adminfiles\loadrunner\ld_scripts\uc01_cancel_order\\pre_cci.c

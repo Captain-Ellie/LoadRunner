@@ -1,0 +1,3 @@
+"advanceDiscount=0&depart=Zurich&departDate=05%2F17%2F2020&arrive=Portland&returnDate=06%2F10%2"
+"F2020&numPassengers=1&seatPref=None%22+checked%3D%22checked&seatType=First&.cgifields=roundtri"
+"p&.cgifields=seatType&.cgifields=seatPref&findFlights.x=66&findFlights.y=7"

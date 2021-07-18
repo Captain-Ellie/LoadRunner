@@ -1,0 +1,291 @@
+[API Trapper      ( ab8: b54)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (3254:292c)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (3254: a10)] ------------------------------------------------------------------------------------------
+[Network Analyzer (3254: a10)] Load Network Traffic Analyzers:
+[Network Analyzer (3254: a10)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (3254: a10)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (3254: a10)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (3254: a10)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (3254: a10)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (3254: a10)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (3254: a10)]     Analyzer Module: local_server (value=)
+[Network Analyzer (3254: a10)] ------------------------------------------------------------------------------------------
+[Network Analyzer (3254: 4cc)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Net An. Warning  (3254: a10)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (3254: a10)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (3254: a10)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (3254: a10)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (3254:2274)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254:2274)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (3254: 4cc)] "GET /WebTours/"   
+[Network Analyzer (3254: 4cc)]   (Sid:  1) Client -> Server @ : 270 bytes (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  1) Server -> Client : 664 bytes  (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /WebTours/header.html"   
+[Network Analyzer (3254: 4cc)]   (Sid:  1) Client -> Server @ : 323 bytes (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  1) Server -> Client : 1007 bytes  (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (3254: 4cc)]   (Sid:  1) Client -> Server @ : 334 bytes (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  1) Server -> Client : 17 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  1) Server -> Client : 1008 bytes  (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer (3254: 4cc)]   (Sid:  1) Client -> Server @ : 354 bytes (Service=HTTP)
+[Network Analyzer (3254:3148)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254:3148)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (3254: 4cc)]   (Sid:  1) Server -> Client : 898 bytes  (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /WebTours/home.html"   
+[Network Analyzer (3254: 4cc)]   (Sid:  2) Client -> Server @ : 371 bytes (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer (3254: 4cc)]   (Sid:  1) Client -> Server @ : 355 bytes (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  2) Server -> Client : 1660 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  1) Server -> Client : 4486 bytes  (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (3254: 4cc)]   (Sid:  2) Client -> Server @ : 375 bytes (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  2) Server -> Client : 17 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  2) Server -> Client : 1740 bytes  (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (3254: 4cc)]   (Sid:  2) Client -> Server @ : 386 bytes (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  2) Server -> Client : 976 bytes  (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /favicon.ico"   
+[Network Analyzer (3254: 4cc)]   (Sid:  2) Client -> Server @ : 231 bytes (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  2) Server -> Client : 424 bytes  (Service=HTTP)
+[Net An. Warning  (3254: a10)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (3254: a10)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (3254: a10)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (3254: a10)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (3254:2274)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254: a10)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254:2274)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (3254: a10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (3254: a10)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254: a10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (3254: a10)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254: a10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (3254: 4cc)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (3254: 4cc)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer ( ab8:36b8)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( ab8:36b8)] Load Network Traffic Analyzers:
+[Network Analyzer ( ab8:36b8)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( ab8:36b8)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( ab8:36b8)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( ab8:36b8)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( ab8:36b8)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( ab8:36b8)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( ab8:36b8)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( ab8:36b8)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( ab8: 74c)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer ( ab8:38e8)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer ( ab8:36b8)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer ( ab8:38e8)] Request Connection: Remote Server @ 152.199.19.161:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer ( ab8:36b8)] Request Connection: Remote Server @ 152.199.19.161:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( ab8: c64)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( ab8:2d48)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[User action                 ] StartTransactionEvent UC01_TR01_Login [Network Analyzer ( ab8:2f90)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer ( ab8:2f90)] Request Connection: Remote Server @ 104.18.24.243:80   (Service=)  (Sid=  3)  PROXIED!
+[Web Request      ( ab8: 74c)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCExwAFF8jA2u85i8%2FLFYAAAAUXyM%3D"   
+[Network Analyzer ( ab8: 74c)]   (Sid:  3) Client -> Server @ : 240 bytes (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  3) Server -> Client : 500 bytes  (Service=HTTP)
+[Web Request      ( ab8: 74c)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCExwAFF8jA2u85i8%2FLFYAAAAUXyM%3D"   
+[Network Analyzer ( ab8: 74c)]   (Sid:  3) Client -> Server @ : 283 bytes (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  3) Server -> Client : 500 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (3254: 4cc)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (3254: 4cc)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (3254: 4cc)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (3254:2274)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254:2274)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  7)  PROXIED!
+[Web Request      (3254: 4cc)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (3254: 4cc)]   (Sid:  7) Client -> Server @ : 579 bytes (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  7) Server -> Client : 17 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  7) Server -> Client : 835 bytes  (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (3254: 4cc)]   (Sid:  7) Client -> Server @ : 480 bytes (Service=HTTP)
+[Network Analyzer (3254:2274)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254:2274)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (3254: 4cc)]   (Sid:  7) Server -> Client : 17 bytes  (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (3254: 4cc)]   (Sid:  8) Client -> Server @ : 475 bytes (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  7) Server -> Client : 1732 bytes  (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (3254: 4cc)]   (Sid:  7) Client -> Server @ : 504 bytes (Service=HTTP)
+[Network Analyzer (3254: a10)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254:3148)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254:2274)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254: a10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  9)  PROXIED!
+[Web Request      (3254: 4cc)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (3254: 4cc)]   (Sid:  9) Client -> Server @ : 504 bytes (Service=HTTP)
+[Network Analyzer (3254:3148)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 10)  PROXIED!
+[Web Request      (3254: 4cc)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (3254: 4cc)]   (Sid: 10) Client -> Server @ : 504 bytes (Service=HTTP)
+[Network Analyzer (3254:2274)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (3254: 4cc)]   (Sid:  9) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  7) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid: 10) Server -> Client : 1049 bytes  (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (3254: 4cc)]   (Sid: 11) Client -> Server @ : 506 bytes (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid: 11) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  8) Server -> Client : 17 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid:  8) Server -> Client : 1142 bytes  (Service=HTTP)
+[Network Analyzer ( ab8:16e8)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer ( ab8:16e8)] Request Connection: Remote Server @ 152.199.19.160:80   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      ( ab8: 74c)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer ( ab8: 74c)]   (Sid:  4) Client -> Server @ : 168 bytes (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  4) Server -> Client : 439 bytes  (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  4) Server -> Client : 14812 bytes  (Service=HTTP)
+[Web Request      ( ab8: 74c)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer ( ab8: 74c)]   (Sid:  4) Client -> Server @ : 211 bytes (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  4) Server -> Client : 439 bytes  (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  4) Server -> Client : 14812 bytes  (Service=HTTP)
+[Network Analyzer ( ab8:2030)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer ( ab8:2030)] Request Connection: Remote Server @ 88.221.132.35:80   (Service=)  (Sid=  5)  PROXIED!
+[User action                 ] EndTransactionEvent UC01_TR01_Login [Web Request      ( ab8: 74c)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer ( ab8: 74c)]   (Sid:  5) Client -> Server @ : 166 bytes (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  5) Server -> Client : 444 bytes  (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  5) Server -> Client : 14812 bytes  (Service=HTTP)
+[Web Request      ( ab8: 74c)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer ( ab8: 74c)]   (Sid:  5) Client -> Server @ : 209 bytes (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  5) Server -> Client : 444 bytes  (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  5) Server -> Client : 14812 bytes  (Service=HTTP)
+[Net An. Error    ( ab8: c64)] SSLAccept(ssl_id = 2430203933536 = 00000235D3713360) Failed, ctx = 00000235D370C110, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( ab8: c64)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( ab8:2d48)] SSLAccept(ssl_id = 2430203773168 = 00000235D36EC0F0) Failed, ctx = 00000235D370C110, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( ab8:2d48)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( ab8:36b8)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer ( ab8: 74c)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer ( ab8: 74c)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer ( ab8:36b8)] Request Connection: Remote Server @ 152.199.19.161:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( ab8:1e38)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( ab8:1e38)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (3254: 4cc)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer (3254: 4cc)]   (Sid: 10) Connection Terminated (by Server)
+[Network Analyzer (3254: 4cc)]   (Sid:  7) Connection Terminated (by Server)
+[Network Analyzer (3254: 4cc)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer (3254: 4cc)]   (Sid:  8) Connection Terminated (by Server)
+[Web Request      ( ab8: 74c)] "GET /IE11/1478281996/iecompatviewlist.xml"   
+[Network Analyzer ( ab8: 74c)]   (Sid:  6) Client -> Server @ : 363 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  6) Server -> Client : 479 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  6) Server -> Client : 16383 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  6) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( ab8: 74c)]   (Sid:  6) Server -> Client : 9611 bytes (SSL) (Service=HTTP)
+[User action                 ] StartTransactionEvent UC01_TR02_Flights [Network Analyzer (3254:2274)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254:3148)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254:2274)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (3254:3148)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 13)  PROXIED!
+[Web Request      (3254: 4cc)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (3254: 4cc)]   (Sid: 12) Client -> Server @ : 494 bytes (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid: 12) Server -> Client : 17 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid: 12) Server -> Client : 827 bytes  (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (3254: 4cc)]   (Sid: 12) Client -> Server @ : 497 bytes (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (3254: 4cc)]   (Sid: 13) Client -> Server @ : 498 bytes (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid: 12) Server -> Client : 17 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid: 12) Server -> Client : 1732 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid: 13) Server -> Client : 17 bytes  (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer (3254: 4cc)]   (Sid: 12) Client -> Server @ : 510 bytes (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid: 13) Server -> Client : 4498 bytes  (Service=HTTP)
+[Network Analyzer (3254: a10)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Web Request      (3254: 4cc)] "GET /WebTours/images/home.gif"   
+[Network Analyzer (3254: 4cc)]   (Sid: 13) Client -> Server @ : 504 bytes (Service=HTTP)
+[Network Analyzer (3254: a10)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (3254: 4cc)]   (Sid: 12) Server -> Client : 1023 bytes  (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (3254: 4cc)]   (Sid: 14) Client -> Server @ : 512 bytes (Service=HTTP)
+[Network Analyzer (3254:2274)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254: 4cc)]   (Sid: 14) Server -> Client : 1056 bytes  (Service=HTTP)
+[Network Analyzer (3254:2274)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (3254: 4cc)]   (Sid: 13) Server -> Client : 985 bytes  (Service=HTTP)
+[API Trapper      (2418: 8a4)] Recording in 32-bit mode: C:\Program Files (x86)\Java\jre1.8.0_241\bin\jp2launcher.exe
+[User action                 ] EndTransactionEvent UC01_TR02_Flights [Network Analyzer (2418:324c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2418:324c)] Load Network Traffic Analyzers:
+[Network Analyzer (2418:324c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2418:324c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (2418:324c)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2418:324c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (2418:324c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (2418:324c)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2418:324c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2418:324c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2418: 11c)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (2418:324c)] Request Connection: Remote Server @ 0:0:0:0:0:FFFF:7F00:1: - 1080  (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (2418:1d98)] "HEAD /WebTours/classes/FormDateUpdate.class"   
+[Network Analyzer (2418:1d98)]   (Sid:  1) Client -> Server @ : 476 bytes (Service=HTTP)
+[Network Analyzer (2418:1d98)]   (Sid:  1) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid: 12) Connection Terminated (by Server)
+[Network Analyzer (3254: 4cc)]   (Sid: 14) Connection Terminated (by Server)
+[Network Analyzer (3254: 4cc)]   (Sid: 13) Connection Terminated (by Server)
+[Network Analyzer (2418:1d98)]   (Sid:  1) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent UC01_TR03_Find_Flight [Network Analyzer (3254: 4cc)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (3254:3148)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254:2274)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254:3148)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 16)  PROXIED!
+[Web Request      (3254: 4cc)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (3254: 4cc)]   (Sid: 16) Client -> Server @ : 831 bytes (Service=HTTP)
+[Network Analyzer (3254:2274)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (3254: 4cc)]   (Sid: 16) Server -> Client : 17 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid: 16) Server -> Client : 2706 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent UC01_TR03_Find_Flight [Network Analyzer (3254: 4cc)]   (Sid: 16) Connection Terminated (by Server)
+[Network Analyzer ( ab8: 74c)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer ( ab8: 74c)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer ( ab8: 74c)]   (Sid:  4) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent UC01_TR04_Find_Flight [Network Analyzer (3254: 4cc)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (3254:3148)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254:3148)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (3254:2274)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Web Request      (3254: 4cc)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (3254: 4cc)]   (Sid: 18) Client -> Server @ : 719 bytes (Service=HTTP)
+[Network Analyzer (3254:2274)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (3254: 4cc)]   (Sid: 18) Server -> Client : 17 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid: 18) Server -> Client : 2952 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent UC01_TR04_Find_Flight [Network Analyzer (3254: 4cc)]   (Sid: 18) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent UC01_TR05_Payment_Details [Network Analyzer ( ab8: 74c)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (3254: 4cc)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (3254:3148)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254:2274)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254:3148)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 20)  PROXIED!
+[Web Request      (3254: 4cc)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (3254: 4cc)]   (Sid: 20) Client -> Server @ : 893 bytes (Service=HTTP)
+[Network Analyzer (3254:2274)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (3254: 4cc)]   (Sid: 20) Server -> Client : 17 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid: 20) Server -> Client : 2846 bytes  (Service=HTTP)
+[Web Request      (3254: 4cc)] "GET /WebTours/images/bookanother.gif"   
+[Network Analyzer (3254: 4cc)]   (Sid: 20) Client -> Server @ : 475 bytes (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid: 20) Server -> Client : 1103 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent UC01_TR05_Payment_Details [Network Analyzer (3254: 4cc)]   (Sid: 20) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent UC01_TR6_Invoice [Network Analyzer (3254: 4cc)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (3254:3148)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254:2274)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer (3254:3148)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Web Request      (3254: 4cc)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (3254: 4cc)]   (Sid: 22) Client -> Server @ : 584 bytes (Service=HTTP)
+[Network Analyzer (3254:2274)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (3254: 4cc)]   (Sid: 22) Server -> Client : 17 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid: 22) Server -> Client : 4498 bytes  (Service=HTTP)
+[API Trapper      ( ea8:107c)] Recording in 32-bit mode: C:\Program Files (x86)\Java\jre1.8.0_241\bin\jp2launcher.exe
+[Network Analyzer ( ea8:28d8)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( ea8:28d8)] Load Network Traffic Analyzers:
+[Network Analyzer ( ea8:28d8)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( ea8:28d8)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer ( ea8:28d8)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( ea8:28d8)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer ( ea8:28d8)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer ( ea8:28d8)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( ea8:28d8)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( ea8:28d8)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( ea8: 850)] Address lookup for DESKTOP-U6DHR9P = 192.168.43.253
+[Network Analyzer ( ea8:28d8)] Request Connection: Remote Server @ 0:0:0:0:0:FFFF:7F00:1: - 1080  (Service=)  (Sid=  1)  PROXIED!
+[Web Request      ( ea8:2ecc)] "HEAD /WebTours/classes/FormDateUpdate.class"   
+[Network Analyzer ( ea8:2ecc)]   (Sid:  1) Client -> Server @ : 452 bytes (Service=HTTP)
+[Network Analyzer ( ea8:2ecc)]   (Sid:  1) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (3254: 4cc)]   (Sid: 22) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent UC01_TR6_Invoice [Network Analyzer ( ea8:2ecc)]   (Sid:  1) Connection Terminated (by Server)

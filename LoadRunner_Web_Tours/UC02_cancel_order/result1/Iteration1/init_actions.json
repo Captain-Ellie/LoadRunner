@@ -1,0 +1,28 @@
+[
+    {
+        "actionName": "vuser_init",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: WebTours",
+                "infFile": "t1.inf",
+                "time": 1589658455391
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t2.inf",
+                "time": 1589658455512
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC01_TR01_login",
+                "rawStartTime": 1589658455392,
+                "rawEndTime": 1589658455512,
+                "thinkTime": 0.0,
+                "wastedTime": 0.009722471237182618
+            }
+        ]
+    }
+]

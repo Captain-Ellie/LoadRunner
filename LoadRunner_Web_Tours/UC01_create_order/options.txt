@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\AdminFiles\LoadRunner\LD_scripts\UC01_create_order_v2
+-ID:\AdminFiles\LoadRunner\LR_prog\include
+-ed:\adminfiles\loadrunner\ld_scripts\uc01_create_order_v2\\logfile.log
+d:\adminfiles\loadrunner\ld_scripts\uc01_create_order_v2\\combined_UC01_create_order_v2.c
+d:\adminfiles\loadrunner\ld_scripts\uc01_create_order_v2\\pre_cci.c

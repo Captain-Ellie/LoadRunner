@@ -1,0 +1,70 @@
+[General]
+Type=Multi
+DefaultCfg=default.cfg
+ParameterFile=UC01_cancel_order.prm
+GlobalParameterFile=
+NewFunctionHeader=1
+RunType=cci
+ActionLogicExt=action_logic
+LastActiveAction=Action
+MajorVersion=2020
+MinorVersion=0
+ActiveTypes=QTWeb
+GenerateTypes=QTWeb
+AdditionalTypes=QTWeb
+DevelopTool=Vugen
+LastModifyVer=2020.0.0.0
+DFERebrandFlag=Done
+ParamLeftBrace={
+ParamRightBrace=}
+ScriptLanguage=C
+LastCodeGenerationVer=2020.0.0.0
+DisableRegenerate=0
+Encoding=ANSI
+Description=
+ScriptLocale=ru-RU
+[Actions]
+vuser_init=vuser_init.c
+Itinerary=Itinerary.c
+Cancel_Orders=Cancel_Orders.c
+vuser_end=vuser_end.c
+[RunLogicFiles]
+Default Profile=default.usp
+[VuserProfiles]
+Profiles=Default Profile
+[CfgFiles]
+Default Profile=default.cfg
+[ExtraFiles]
+globals.h=
+[Modified Actions]
+vuser_init=1
+Itinerary=1
+Cancel_Orders=1
+vuser_end=1
+[Recorded Actions]
+vuser_init=1
+Itinerary=0
+Cancel_Orders=0
+vuser_end=0
+[Replayed Actions]
+vuser_init=1
+Itinerary=1
+Cancel_Orders=1
+vuser_end=1
+[Interpreters]
+vuser_init=cci
+Itinerary=cci
+Cancel_Orders=cci
+vuser_end=cci
+[TransactionsOrder]
+Order="UC01_TR01_login__*delimiter*__UC01_TR02_itinerary__*delimiter*__UC01_TR03_cancel_orders__*delimiter*__UC01_TR04_sign_off"
+[StateManagement]
+LastReplayStatus=1
+[ActiveReplay]
+LastReplayedRunName=result1
+ActiveRunName=result1
+[Transactions]
+UC01_TR01_login=
+UC01_TR02_itinerary=
+UC01_TR03_cancel_orders=
+UC01_TR04_sign_off=
